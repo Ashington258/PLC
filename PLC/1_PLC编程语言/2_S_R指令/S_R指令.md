@@ -91,7 +91,7 @@ PLC S/R指令格式及功能
   - PT:PreSet 预设值,用于设定延时时间 :`PT*时基`
   - TON:
 
-
+![时序](image-8.png)
 ![延时接通](image-5.png)
 
 ![延时断开](image-6.png)
