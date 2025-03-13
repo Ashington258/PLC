@@ -88,5 +88,12 @@ PLC S/R指令格式及功能
 
 - 端口
   - IN:IN输入为1时开始计时
-  - PT:PreSet 预设值
+  - PT:PreSet 预设值,用于设定延时时间 :`PT*时基`
   - TON:
+
+
+![延时接通](image-5.png)
+
+![延时断开](image-6.png)
+
+![延时通和断开](image-7.png)
